@@ -8,27 +8,26 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marco\\.nuget\\packages\\": {}
+    "C:\\Users\\tghee\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
+      "projectUniqueName": "C:\\Users\\tghee\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
       "projectName": "NijntjeStrand",
-      "projectPath": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
-      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\obj\\",
+      "projectPath": "C:\\Users\\tghee\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
+      "packagesPath": "C:\\Users\\tghee\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tghee\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tghee\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net5.0-windows7.0": {
@@ -63,7 +62,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

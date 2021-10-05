@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
       "projectName": "NijntjeStrand",
-      "projectPath": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
+      "projectPath": "C:\\Users\\marco\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\NijntjeStrand.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\Game\\NijntjeStrandGame\\NijntjeStrand\\NijntjeStrand\\obj\\",
+      "outputPath": "C:\\Users\\marco\\Source\\Repos\\NijntjeOpHetStrand\\NijntjeStrand\\NijntjeStrand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
